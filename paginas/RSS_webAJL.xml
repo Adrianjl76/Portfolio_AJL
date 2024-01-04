@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+ <title> Mi canal de RSS</title>
+ <link>https://adrianjl76.github.io/Portfolio_AJL/</link>
+ <description>Información sobre el curso de 1asir</description>
+ <item>
+     <title> Sobre mí</title>
+     <link>https://adrianjl76.github.io/Portfolio_AJL/paginas/Iniciohtml.html</link>
+     <description>Información acerca de mi</description>
+</item>
+<item>
+     <title> Base de datos</title>
+     <link>https://adrianjl76.github.io/Portfolio_AJL/paginas/Basededatos.html</link>
+     <description>Información acerca de la asignatura de base de datos</description>
+</item>
+<item>
+     <title> Lenguaje de Marcas</title>
+     <link>https://adrianjl76.github.io/Portfolio_AJL/paginas/Lenguaje%20de%20Marcas.html</link>
+     <description>Información acerca de la asignatura de Lenguaje de Marcas</description>
+</item>
+</channel>
+</rss>
