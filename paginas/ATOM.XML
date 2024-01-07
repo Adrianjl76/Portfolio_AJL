@@ -1,4 +1,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://adrianjl76.github.io/Portfolio_AJL/">
 <id>https://adrianjl76.github.io/Portfolio_AJL/</id>
 <title> Portfolio-AJL y Atom</title>
-<link rel="alternate" href=""
+<link rel="alternate" href="https://adrianjl76.github.io/Portfolio_AJL/paginas/ATOM.XML">
+<author>
+<name> Adrián Jiménez Luque </name>
+<email>jiluad_aliesma2324@iesmedianaazahara.es</email>
+</author>
+<category term="Portfolio"/>
+<icon> imagenes/atom.png</icon>
+<entry>
+<id> https://adrianjl76.github.io/Portfolio_AJL/paginas/Basededatos.html </id>
+<author>
+<name> Adrián Jiménez Luque </name>
+<email>jiluad_aliesma2324@iesmedianaazahara.es</email>
+</author>
+<link rel="alternate" href="https://adrianjl76.github.io/Portfolio_AJL/paginas/Basededatos.html"/>
+</entry>
+</feed>
