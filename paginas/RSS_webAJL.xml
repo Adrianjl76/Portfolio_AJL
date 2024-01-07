@@ -11,21 +11,21 @@
      <link>https://adrianjl76.github.io/Portfolio_AJL/paginas/Iniciohtml.html</link>
      <description>Información acerca de mi</description>
      <author> jiluad_aliesma2324@iesmedianaazahara.es </author>
-     <category> Sobre mi <category>
+     <category> Sobre mi </category>
 </item>
 <item>
      <title> Base de datos</title>
      <link>https://adrianjl76.github.io/Portfolio_AJL/paginas/Basededatos.html</link>
      <description>Información acerca de la asignatura de base de datos</description>
       <author> jiluad_aliesma2324@iesmedianaazahara.es </author>
-      <category> Base de datos <category>
+      <category> Base de datos </category>
 </item>
 <item>
      <title> Lenguaje de Marcas</title>
      <link>https://adrianjl76.github.io/Portfolio_AJL/paginas/Lenguaje%20de%20Marcas.html</link>
      <description>Información acerca de la asignatura de Lenguaje de Marcas</description>
       <author> jiluad_aliesma2324@iesmedianaazahara.es </author>
-     <category> Lenguaje de Marcas <category>
+     <category> Lenguaje de Marcas </category>
 </item>
 </channel>
 </rss>
