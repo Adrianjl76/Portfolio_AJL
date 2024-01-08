@@ -104,7 +104,7 @@ text-align: center;
 }
 
 .RSS {
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
     margin: auto;
