@@ -103,14 +103,14 @@ text-align: center;
 
 }
 
-#RSS {
+.RSS {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: auto;
 }
 
-#ATOM {
+.ATOM {
     display: flex;
     justify-content: center;
     align-items: center;
