@@ -103,10 +103,18 @@ text-align: center;
 
 }
 
-.RSS	{
- background-position: center;
- align-items: center;
-background-size: contain;
+#RSS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: auto;
 }
 
-
+#ATOM {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: auto;
+}
