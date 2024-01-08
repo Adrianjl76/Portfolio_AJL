@@ -3,7 +3,7 @@
 <id>https://adrianjl76.github.io/Portfolio_AJL/</id>
 <title>Portfolio-AJL y Atom</title>
 <updated>2024-1-8T18:30:00+1:00</updated>
-<link rel="alternate" href="https://adrianjl76.github.io/Portfolio_AJL/paginas/ATOM.xml">
+<link href="https://adrianjl76.github.io/Portfolio_AJL/paginas/ATOM.xml">
 <author>
 <name>Adrián Jiménez Luque</name>
 <email>jiluad_aliesma2324@iesmedianaazahara.es</email>
@@ -11,7 +11,7 @@
 <category term="Portfolio"/>
 <icon>imagenes/atom.png</icon>
 <entry>
-<id>https://adrianjl76.github.io/Portfolio_AJL/</id>
+<id>https://adrianjl76.github.io/Portfolio_AJL/paginas/Basededatos.html/</id>
 <title>Base de datos</title>
 <updated>2024-1-8T18:30:00+1:00</updated>
 <author>
@@ -19,10 +19,10 @@
 <email>jiluad_aliesma2324@iesmedianaazahara.es</email>
 </author>
 <summary> En esta página podemos ver información acerca de la asignatura de Base de datos.</summary>
-<link rel="alternate" href="https://adrianjl76.github.io/Portfolio_AJL/paginas/Basededatos.html"/>
+<link href="https://adrianjl76.github.io/Portfolio_AJL/paginas/Basededatos.html"/>
 </entry>
 <entry>
-<id>https://adrianjl76.github.io/Portfolio_AJL/</id>
+<id>https://adrianjl76.github.io/Portfolio_AJL/Lenguaje de Marcas.html/</id>
 <title>Lenguaje de marcas</title>
 <updated>2024-1-8T19:30:00+1:00</updated>
 <author>
@@ -30,10 +30,10 @@
 <email>jiluad_aliesma2324@iesmedianaazahara.es</email>
 </author>
 <summary>En esta página podemos ver información acerca de la asignatura de Lenguaje de Marcas.</summary>
-<link rel="alternate" href="https://adrianjl76.github.io/Portfolio_AJL/paginas/Lenguaje de Marcas.html"/>
+<link href="https://adrianjl76.github.io/Portfolio_AJL/paginas/Lenguaje de Marcas.html"/>
 </entry>
 <entry>
-<id>https://adrianjl76.github.io/Portfolio_AJL/</id>
+<id>https://adrianjl76.github.io/Portfolio_AJL/Iniciohtml.html</id>
 <title>Sobre mí</title>
 <updated>2024-1-8T20:30:00+1:00</updated>
 <author>
@@ -41,6 +41,6 @@
 <email>jiluad_aliesma2324@iesmedianaazahara.es</email>
 </author>
 <summary>En esta página podemos ver información sobre mi</summary>
-<link rel="alternate" href="https://adrianjl76.github.io/Portfolio_AJL/paginas/Iniciohtml.html"/>
+<link href="https://adrianjl76.github.io/Portfolio_AJL/paginas/Iniciohtml.html"/>
 </entry>
 </feed>
