@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://adrianjl76.github.io/Portfolio_AJL/">
 <id>https://adrianjl76.github.io/Portfolio_AJL/</id>
 <title> Portfolio-AJL y Atom</title>
+<updated>2024-1-8T18:38:00+1:00</updated>
 <link rel="alternate" href="https://adrianjl76.github.io/Portfolio_AJL/paginas/ATOM.XML">
 <author>
 <name> Adrián Jiménez Luque </name>
@@ -10,10 +12,32 @@
 <icon> imagenes/atom.png</icon>
 <entry>
 <id> https://adrianjl76.github.io/Portfolio_AJL/paginas/Basededatos.html </id>
+<update>2024-1-8T18:38:00+1:00</update>
 <author>
 <name> Adrián Jiménez Luque </name>
 <email>jiluad_aliesma2324@iesmedianaazahara.es</email>
 </author>
 <link rel="alternate" href="https://adrianjl76.github.io/Portfolio_AJL/paginas/Basededatos.html"/>
+<summary> En esta página podemos ver información acerca de la asignatura de Base de datos </summary>
+</entry>
+<entry>
+<id> https://adrianjl76.github.io/Portfolio_AJL/paginas/Lenguaje de Marcas.html </id>
+<update>2024-1-8T19:38:00+1:00</update>
+<author>
+<name> Adrián Jiménez Luque </name>
+<email>jiluad_aliesma2324@iesmedianaazahara.es</email>
+</author>
+<link rel="alternate" href="https://adrianjl76.github.io/Portfolio_AJL/paginas/Lenguaje de Marcas.html"/>
+<summary> En esta página podemos ver información acerca de la asignatura de Lenguaje de Marcas </summary>
+</entry>
+<entry>
+<id> https://adrianjl76.github.io/Portfolio_AJL/paginas/Iniciohtml.html </id>
+<update>2024-1-8T20:38:00+1:00</update>
+<author>
+<name> Adrián Jiménez Luque </name>
+<email>jiluad_aliesma2324@iesmedianaazahara.es</email>
+</author>
+<link rel="alternate" href="https://adrianjl76.github.io/Portfolio_AJL/paginas/Iniciohtml.html"/>
+<summary> En esta página podemos ver información sobre mi </summary>
 </entry>
 </feed>
