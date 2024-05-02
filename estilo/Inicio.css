@@ -27,6 +27,13 @@ nav a {
     margin: 0 15px;
 }
 
+nav img {
+ max-width: 100%; 
+  height: auto; 
+  display: block;
+  margin: 0 auto; 
+}
+
 h1 {
     text-align: center;
     padding: 20px;
